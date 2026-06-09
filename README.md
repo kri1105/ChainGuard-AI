@@ -1,2 +1,2 @@
 # ChainGuard-AI
-RAG based smart contact audit system
+RAG based smart contract audit system
